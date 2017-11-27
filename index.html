@@ -1,0 +1,43 @@
+<!Doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="CSS/reset.css">
+        <link rel="stylesheet" href="CSS/myfuturenow.css">
+        <!-- link to google fonts -->
+        <title>MyFutureNow</title>
+
+ 
+    </head>
+    <body>
+               <script>
+function responsiveNav() {
+    var x = document.getElementById("navbar");
+    if (x.className === "nav-bar") {
+        x.className += " responsive";
+    } else {
+        x.className = "nav-bar";
+    }
+}
+</script>
+        <nav id="navbar" class="nav-bar">
+            <img src="Images/Logo@1.5x.png" alt="logo" class="logo">
+            <ul>
+                <!--the links are anchor tags to other sections-->
+                <li><a href="index.html" title="first-article">HOW IT WORKS</a></li>
+                <li><a href="#" title="pension-info">PENSION PROVIDERS</a></li>
+                <li><a href="#" title="log-in">LOG IN</a></li>
+                <li><a href="#" title="sign-up" class="signup">SIGN UP</a></li>
+                <a href="javascript:void(0);" class="icon" onclick="responsiveNav()">&#9776;</a>
+            </ul>
+        </nav>
+        <header>
+        </header>
+        <section>
+            <article>
+            </article>
+        </section>
+        <footer>
+        </footer>
+    </body>
+</html>
