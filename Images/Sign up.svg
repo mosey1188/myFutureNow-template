@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="45px" viewBox="0 0 140 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Sign up</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="140" height="45" rx="22.5"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu" transform="translate(-1249.000000, -40.000000)">
+            <g id="Button/Small">
+                <g transform="translate(1249.000000, 40.000000)">
+                    <g id="Mixin/Button/Fill---Rounded">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <g id="Mixin/Fill/Primary" mask="url(#mask-2)" fill-rule="evenodd" fill="#00B2CB">
+                            <rect id="Box" x="0" y="0" width="140" height="45"></rect>
+                        </g>
+                    </g>
+                    <g id="Text/Body-2/Normal/White" transform="translate(24.615385, 12.375000)" fill="#FFFFFF" font-size="11" font-family="Montserrat-SemiBold, Montserrat" line-spacing="16" letter-spacing="3" font-weight="500">
+                        <text id="↳🖊Content">
+                            <tspan x="16.33" y="13">Sign up</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
