@@ -1,3 +1,7 @@
+body
+{
+     font-family: 'Montserrat', sans-serif;
+}
 .logo
 {
     
@@ -34,10 +38,6 @@
  font-family: 'Montserrat', sans-serif;
 }
 
-.nav-bar li a:hover
-{
-
-}
 .nav-bar .signup 
 {
     background-color: #00b2cb;
@@ -199,4 +199,41 @@ article
     width: 40%;
     text-align:center;
 
+}
+.section-background
+{
+  background-image: url("../Images/18-Unicorn.png");
+  background-repeat: no-repeat;
+  background-position: fill;
+  background-size: 100%;
+}
+.pension-consolidated
+{
+    margin-left: 10%;
+    width: 400px;
+    padding-top: 100px;
+    padding-bottom: 50px; 
+    text-align: left;
+    float: left;
+}
+.endorsement
+{
+    font-family: 'PT Serif', serif;
+
+}
+
+.scot-resize
+{
+  width: 30%;
+  padding-left: 5px;
+  
+}
+.macbook-image
+{
+    position: relative;
+    z-index: 5;
+    width: 400px;
+    margin-left: 550px;
+    padding-top: 100px;
+    
 }
